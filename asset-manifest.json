@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/soundhub/static/js/main.4fd05b87.chunk.js",
-    "main.js.map": "/soundhub/static/js/main.4fd05b87.chunk.js.map",
+    "main.js": "/soundhub/static/js/main.27fdc3db.chunk.js",
+    "main.js.map": "/soundhub/static/js/main.27fdc3db.chunk.js.map",
     "runtime-main.js": "/soundhub/static/js/runtime-main.e05fb168.js",
     "runtime-main.js.map": "/soundhub/static/js/runtime-main.e05fb168.js.map",
     "static/css/2.8664f5ec.chunk.css": "/soundhub/static/css/2.8664f5ec.chunk.css",
-    "static/js/2.2366e0dc.chunk.js": "/soundhub/static/js/2.2366e0dc.chunk.js",
-    "static/js/2.2366e0dc.chunk.js.map": "/soundhub/static/js/2.2366e0dc.chunk.js.map",
+    "static/js/2.89954ebf.chunk.js": "/soundhub/static/js/2.89954ebf.chunk.js",
+    "static/js/2.89954ebf.chunk.js.map": "/soundhub/static/js/2.89954ebf.chunk.js.map",
     "static/js/3.e87f3a02.chunk.js": "/soundhub/static/js/3.e87f3a02.chunk.js",
     "static/js/3.e87f3a02.chunk.js.map": "/soundhub/static/js/3.e87f3a02.chunk.js.map",
     "index.html": "/soundhub/index.html",
     "static/css/2.8664f5ec.chunk.css.map": "/soundhub/static/css/2.8664f5ec.chunk.css.map",
-    "static/js/2.2366e0dc.chunk.js.LICENSE.txt": "/soundhub/static/js/2.2366e0dc.chunk.js.LICENSE.txt",
+    "static/js/2.89954ebf.chunk.js.LICENSE.txt": "/soundhub/static/js/2.89954ebf.chunk.js.LICENSE.txt",
     "static/media/close.89dd6f50.svg": "/soundhub/static/media/close.89dd6f50.svg",
     "static/media/dollar.b41b747e.svg": "/soundhub/static/media/dollar.b41b747e.svg",
     "static/media/heart.70b72c45.svg": "/soundhub/static/media/heart.70b72c45.svg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.e05fb168.js",
     "static/css/2.8664f5ec.chunk.css",
-    "static/js/2.2366e0dc.chunk.js",
-    "static/js/main.4fd05b87.chunk.js"
+    "static/js/2.89954ebf.chunk.js",
+    "static/js/main.27fdc3db.chunk.js"
   ]
 }
